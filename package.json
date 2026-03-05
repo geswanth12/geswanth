@@ -1,0 +1,23 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://x-access-token:ghs_ilWJbwFwaQbuk1WsfdvRInz8E0yydX3gCuZz@github.com/geswanth12/geswanth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geswanth12/geswanth/issues"
+  },
+  "homepage": "https://github.com/geswanth12/geswanth#readme",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.78.0"
+  }
+}
